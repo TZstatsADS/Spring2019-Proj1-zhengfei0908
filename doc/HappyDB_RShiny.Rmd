@@ -23,7 +23,6 @@ From the packages' descriptions:
 + `Shiny` is an R package that makes it easy to build interactive web apps straight from R;
 
 ```{r load libraries, warning=FALSE, message=FALSE}
-
 library(tidyverse)
 library(tidytext)
 library(DT)
