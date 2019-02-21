@@ -22,6 +22,7 @@ Term: Spring 2019
 	+ topic8: about birthday
 	+ topic9: about the job
 	+ topic10: spend time with family
+![](figs/3D_plot.jpg)
 
 The project structure:
 
