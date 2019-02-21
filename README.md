@@ -4,21 +4,30 @@
 
 ![image](figs/title.jpeg)
 
-### [Project Description](doc/Proj1_desc.md)
-This is the first and only *individual* (as opposed to *team*) this semester. 
 
 Term: Spring 2019
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Why were you happy today?
++ This project is conducted by Fei Zheng
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: This is a text mining project. The target is to explore what factors lead to happiness. I used Non-negative Matrix Factorization to decompose the tf-idf matrix and get the distribution on topic for each text. Then I summarised 11 topics which is listed below.
+	+ topic0: about the old friend
+	+ topic1: buy something new(car, phone)
+	+ topic2: finish work or projects
+	+ topic3: eat food with families
+	+ topic4: play games or win a game
+	+ topic5: watch movies or TVs
+	+ topic6: about the pet
+	+ topic7: confused topic, keyword is good, maybe just about something good
+	+ topic8: about birthday
+	+ topic9: about the job
+	+ topic10: spend time with family
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+The project structure:
 
 ```
 proj/
-├── lib/
+├── lib/ 
 ├── data/
 ├── doc/
 ├── figs/
